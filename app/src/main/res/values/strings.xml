@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SelfieGeek</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Change this to your app key -->
+    <string name="APP_KEY">w5p5imlfmchzpae</string>
+
+    <!-- Strings related to login -->
+    <string name="sign_in">Sign in</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="capture">Capture</string>
+    <string name="stop">Stop</string>
+    <string name="success_message_image">Image uploaded successfully</string>
+    <string name="success_message_video">Video uploaded successfully</string>
+    <string name="click">Click</string>
+    <string name="click_and_save">Click and save</string>
+    <string name="view_uploaded">View uploaded</string>
+
+
+</resources>
